@@ -1,4 +1,4 @@
-# AI Project (67842): Table Guest Management
+# Table Guest Management using CSP
 ## Description
 this is a readme file giving instruction for using the TableGuestManagement class.
 specifically, for explaining the right format of the csv files.
